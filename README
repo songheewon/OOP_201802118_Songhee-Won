@@ -1,0 +1,11 @@
+git add main.cpp
+git add print.cpp
+git add student_id.cpp
+git add print.h
+git add student_id.h
+git add test
+git add makefile
+git add main.o
+git add print.o
+git add student_id.o
+
